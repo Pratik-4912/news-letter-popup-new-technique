@@ -1,2 +1,1 @@
-# project1
-popupnewsLetter this will popup news letter.
+The Newsletter Popup project is a lightweight and interactive subscription form built using HTML, CSS, and JavaScript. When the user clicks the "Subscribe Us" button, a styled popup appears prompting them to enter their email and join a newsletter. The popup can be easily closed with a close icon. This type of UI is commonly used for marketing, lead generation, or community-building on websites. It's fully customizable and includes Font Awesome icons for visual enhancement.
